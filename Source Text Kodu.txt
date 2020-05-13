@@ -1,0 +1,5 @@
+st = 300;  
+t = st - time;  
+c = timeToTimecode(t);  
+c = c.substring(4,8)
+c
